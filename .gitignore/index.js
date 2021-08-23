@@ -5,4 +5,4 @@ Client.on("ready", () => {
     console.log("bot opérationnel");
 });
 
-Client.login(process.env.TOKEN)
+Client.login(process.env.TOKEN);
